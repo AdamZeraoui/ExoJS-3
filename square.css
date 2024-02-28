@@ -13,4 +13,24 @@
     width: 200px;
     margin: 5px;
     background-color: rgb(146, 49, 146);
+    align-items: center;
+    justify-content: center;
+
+}
+.squareBis{
+    display : flex;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    background-color: rgb(146, 49, 146);
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+p{
+    display: flex;
+    text-align: center;
+    color:aliceblue
 }
