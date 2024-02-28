@@ -1,0 +1,16 @@
+#wrapped{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    justify-content: center;
+    height: 50vh;
+    width: 50vw;
+}
+
+.square{
+    display : flex;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    background-color: rgb(146, 49, 146);
+}
