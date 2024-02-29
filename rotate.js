@@ -1,5 +1,5 @@
 const squares = document.querySelectorAll(".square")
-const redSquares = document.querySelectorAll(".squareBis")
+
 
 squares.forEach(function(square){
     square.addEventListener("click",function(){
